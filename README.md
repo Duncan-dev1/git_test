@@ -1,1 +1,1 @@
-# git_test
+Duncan's git basics
